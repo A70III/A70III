@@ -33,14 +33,6 @@
 
 ---
 
-### 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=A70III&theme=github_dark" alt="Stats" height="170"/>
-</p>
-
----
-
 ### 🚧 Current Projects
 
 | Project | Description | Stack |
