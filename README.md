@@ -59,7 +59,7 @@
 ### 📈 Profile Summary
 
 <p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=A70III&theme=github_dark" alt="Profile Summary"/>
+  <img src="https://raw.githubusercontent.com/A70III/A70III/main/github-metrics.svg" alt="Profile Metrics"/>
 </p>
 
 ---
