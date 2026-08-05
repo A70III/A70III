@@ -9,7 +9,7 @@
 
 ### 👨‍💻 About Me
 
-- 🔭 Building **[Kyrin](https://kyrin.dev)** — a simple, fast web framework for Bun
+- 🔭 Building **[Kyrin Research OS](https://kyrin.dev)** — a personal AI research operating system
 - 🚀 Creator of **ARCODEX** — a novel writing IDE & **LexiQ** — IELTS tracker
 - ⚡ Full-stack: TypeScript • Bun • Angular • React • Vue • Tauri • Rust
 - 🌏 Based in Thailand
@@ -37,9 +37,18 @@
 
 | Project | Description | Stack |
 |---------|-------------|-------|
-| [**Kyrin**](https://github.com/kyrinjs/kyrin) | Web framework for Bun | TypeScript, Bun |
+| [**Kyrin**](https://kyrin.dev) | Personal AI research OS — PDF → Markdown + chat for research papers | Next.js, FastAPI, TypeScript, PostgreSQL, S3 |
 | [**ARCODEX**](https://github.com/A70III/ARCODEX) | Novel Writing IDE | TypeScript, Tauri, Angular |
 | [**LexiQ**](https://github.com/A70III/LexiQ) | IELTS Score Tracker | TypeScript, Tauri, React, Rust |
+
+> 🔁 The original **Kyrin** — a simple, fast web framework for Bun — is now retired at [`kyrin-labs/legacy-kyrin`](https://github.com/kyrin-labs/legacy-kyrin).
+
+---
+
+### 🧪 Other Projects
+
+- [**Commit-Migration-Tool**](https://github.com/A70III/Commit-Migration-Tool) — Git branch-state migration with AI-assisted PRs (Next.js, Bun)
+- [**GCS-CTRL**](https://github.com/A70III/GCS-CTRL) — Google Cloud Storage file-management prototype (Next.js)
 
 ---
 
