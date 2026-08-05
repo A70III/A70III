@@ -56,14 +56,6 @@
 
 ---
 
-### 📈 Profile Summary
-
-<p align="center">
-  <img src="https://raw.githubusercontent.com/A70III/A70III/main/github-metrics.svg" alt="Profile Metrics"/>
-</p>
-
----
-
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=A70III&color=blue&style=flat-square" alt="Profile Views"/>
 </p>
