@@ -42,6 +42,7 @@
 | Project | Description | Stack |
 |---------|-------------|-------|
 | [**Kyrin**](https://kyrin.dev) | Personal AI research OS — PDF → Markdown + chat for research papers | Next.js, FastAPI, TypeScript, PostgreSQL, S3 |
+| [**Iris**](https://github.com/kyrin-labs/iris) | Discord bot + LLM (OpenAI-compatible) + agent tool harness | Python, uv, Docker, SearXNG |
 | [**ARCODEX**](https://github.com/A70III/ARCODEX) | Novel Writing IDE | TypeScript, Tauri, Angular |
 | [**LexiQ**](https://github.com/A70III/LexiQ) | IELTS Score Tracker | TypeScript, Tauri, React, Rust |
 
